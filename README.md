@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **_He/Him/His_**...
 - ⚡ Fun fact:**I've studied languages my whole life; _Spoken, Computer, Written, and Body language._ Also Im obsessed with _patterns_**
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=motionlessness&repo=eCommerceSite&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=motionlessness&repo=NeonShooter&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=motionlessness&repo=eCommerceSite&theme=radical)](https://github.com/Motionlessness/eCommerceSite)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=motionlessness&repo=NeonShooter&theme=radical)](https://github.com/Motionlessness/NeonShooter)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motionlessness&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=motionlessness&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
