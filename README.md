@@ -1,4 +1,4 @@
-### 🦉 Hi there my name is Wil Crouch I'm a student from Clover Park Technical College working towards a carrer in Computer Programming and the Like!🦉
+### 🦉 Hi there my name is Wil Crouch I'm a student from Clover Park Technical College working towards a career in Computer Programming and the Like!🦉
 ---
 <!--
 **Motionlessness/Motionlessness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
