@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <!-- 💬 Ask me about ... -->
 - 📫 How to reach me:  **Discord:**[Motown#2026](https://discord.com/new)...
 - 😄 Pronouns: **_He/Him/His_**...
-- ⚡ Fun fact:**I've studied languages my whole life; _Spoken, Computer, Written, and Body language._ Also Im obsessed with _patterns_**
+- ⚡ Fun fact: **I've studied languages my whole life; _Spoken, Computer, Written, and Body language._ Also Im obsessed with _patterns_**
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=motionlessness&repo=eCommerceSite&theme=radical)](https://github.com/Motionlessness/eCommerceSite)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=motionlessness&repo=NeonShooter&theme=radical)](https://github.com/Motionlessness/NeonShooter)
