@@ -1,10 +1,6 @@
-### 🦉 Hi there my name is Wil Crouch I'm a recent graduate from Clover Park Technical College in Computer Programming and .NET Developement🦉
+### 🦉 Hi there my name is Wil I recently graduated from Clover Park Technical College in Computer Programming and .NET Developement🦉
 ---
-<!--
-**Motionlessness/Motionlessness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: 
--->
 
 - **🔭 I’m currently looking for work in applications development**...
 - **🌱 I enjoy working with _JavaScript_ as well as building websites on the _.NET FrameWork_**...
