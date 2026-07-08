@@ -1,4 +1,4 @@
-### 🦉 Hi there my name is Lilly I recently graduated from Clover Park Technical College in Computer Programming and .NET Developement🦉
+### 🦉 Hi there my name is Lilly, I am a Clover Park Technical College graduate with my AA in Computer Programming and .NET Developement🦉
 ---
 
 
