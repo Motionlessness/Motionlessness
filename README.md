@@ -1,4 +1,4 @@
-### 🦉 Hi there my name is Wil I recently graduated from Clover Park Technical College in Computer Programming and .NET Developement🦉
+### 🦉 Hi there my name is Lilly I recently graduated from Clover Park Technical College in Computer Programming and .NET Developement🦉
 ---
 
 
@@ -8,7 +8,7 @@
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ... -->
 - 📫 How to reach me:  **Discord:**[Motown#2026](https://discord.com/new)...
-- 😄 Pronouns: **_He/Him/His_**...
+- 😄 Pronouns: **_She/Her_**...
 - ⚡ Fun fact: **I've studied languages my whole life; _Spoken, Computer, Written, and Body language._ Also Im obsessed with _patterns_**
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=motionlessness&repo=eCommerceSite&theme=radical)](https://github.com/Motionlessness/eCommerceSite)
