@@ -9,8 +9,8 @@
 <!-- 💬 Ask me about ... -->
 - 📫 How to reach me:  **Discord:**[Motown#2026](https://discord.com/new)...
 - 😄 Pronouns: **_She/Her_**...
-- ⚡ Fun fact: **I've studied languages my whole life; _Spoken, Computer, Written, and Body language._ Also Im obsessed with _patterns_**
+- ⚡ Fun fact: **I've studied languages my whole life; _Spoken, Computer, Written, and Body language.**
 ---
 
-
+_Also Im obsessed with _patterns_
 ![Donut](https://repository-images.githubusercontent.com/285044262/ce8b7900-07c9-11eb-99aa-6cdf26b6d551)
