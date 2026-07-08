@@ -1,4 +1,7 @@
-### 🦉 Hi there my name is Lilly, I am a Clover Park Technical College graduate with my AA in Computer Programming and .NET Development🦉
+<div align="center">
+  
+🦉 Hi there my name is **Lilly**, I am a Clover Park Technical College graduate with my AA in Computer Programming and .NET Development🦉
+  
 ---
 
 
@@ -16,3 +19,4 @@
 ![Donut](https://repository-images.githubusercontent.com/285044262/ce8b7900-07c9-11eb-99aa-6cdf26b6d551)
 
 ---
+</div>
